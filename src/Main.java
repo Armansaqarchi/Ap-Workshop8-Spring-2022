@@ -1,7 +1,5 @@
 public class Main {
-    public static void main(String[] args){
-        NoteBook noteBook = NoteBook.getInstance();
+    public static void main(String[] args) {
 
-        noteBook.run();
     }
 }
